@@ -1,12 +1,146 @@
+*{
+    background-color: #B0C4DE;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+.flex-container{
+    height: 100px;
+    width: 900px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: space-between;
+    flex-wrap: wrap;
+}
+.card{
+    padding: 10px;
+}
 #container {
     margin: auto;
-    height: 500px;
-    width: 500px;
+    height: 100px;
+    width: 100px;
     margin-top: 50px;
-    background-color: blue;
+    background-color: white;
+}
+#container2 {
+    margin: auto;
+    height: 100px;
+    width: 100px;
+    margin-top: 50px;
+    background-color: white;
+}
+#container3 {
+    margin: auto;
+    height: 100px;
+    width: 100px;
+    margin-top: 50px;
+    background-color: white;
+}
+#container4 {
+    margin: auto;
+    height: 100px;
+    width: 100px;
+    margin-top: 50px;
+    background-color: white;
+}
+#container5 {
+    margin: auto;
+    height: 100px;
+    width: 100px;
+    margin-top: 50px;
+    background-color: white;
+}
+#container6 {
+    margin: auto;
+    height: 100px;
+    width: 100px;
+    margin-top: 50px;
+    background-color: white;
+}
+#container7 {
+    margin: auto;
+    height: 100px;
+    width: 100px;
+    margin-top: 50px;
+    background-color: white;
+}
+#container8 {
+    margin: auto;
+    height: 100px;
+    width: 100px;
+    margin-top: 50px;
+    background-color: white;
+}
+#container9 {
+    margin: auto;
+    height: 100px;
+    width: 100px;
+    margin-top: 50px;
+    background-color: white;
+}
+#button {
+    display: block;
+    margin: auto;
+    margin-top: 30px;
+    width: 250px;
+    height: 50px;
 }
 
-#button {
+#btn2{
+    display: block;
+    margin: auto;
+    margin-top: 30px;
+    width: 250px;
+    height: 50px;
+}
+#btn3{
+    display: block;
+    margin: auto;
+    margin-top: 30px;
+    width: 250px;
+    height: 50px;
+}
+
+
+#btn4 {
+    display: block;
+    margin: auto;
+    margin-top: 30px;
+    width: 250px;
+    height: 50px;
+}
+
+#btn5{
+    display: block;
+    margin: auto;
+    margin-top: 30px;
+    width: 250px;
+    height: 50px;
+}
+#btn6{
+    display: block;
+    margin: auto;
+    margin-top: 30px;
+    width: 250px;
+    height: 50px;
+}
+#btn7{
+    display: block;
+    margin: auto;
+    margin-top: 30px;
+    width: 250px;
+    height: 50px;
+}
+#btn8{
+    display: block;
+    margin: auto;
+    margin-top: 30px;
+    width: 250px;
+    height: 50px;
+}
+#btn9{
     display: block;
     margin: auto;
     margin-top: 30px;
